@@ -33,7 +33,10 @@ Ajouts:
 Présentation examen MLC et 5, 6 à faire
 
 
-Matis:
+
+
+
+Matis (été 2018):
 -Séparation de la section "examens préliminaires partie II" en 2 sections pour séparer le côté CAS et le côté SOA
 -Ajout d'une section sur l'examen LTAM (ancien MLC)
 -Ajout d'une section sur l'examen SRM
@@ -64,3 +67,8 @@ Matis:
 -J'ai enlevé les hyperliens vers les syllabus puisque ces derniers changent presque tout le temps ces temps-ci,
     je pense que c'est plus pertinent de laisser les étudiants chercher leur syllabus approprié sur la page de 
     l'examen.
+
+
+Matis (septembre 2018):
+-update les liens des questions types pour tous les nouveaux exams.
+-ajout des liens vers des anciens examens pour IFM et STAM.
